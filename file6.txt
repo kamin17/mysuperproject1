@@ -1,0 +1,4 @@
+HelloWorld > file6.txt
+
+
+echo HelloWorld
